@@ -1,0 +1,12 @@
+.contact-us {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .contact-us img {
+    width: 100%;
+    max-width: 500px;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+  
